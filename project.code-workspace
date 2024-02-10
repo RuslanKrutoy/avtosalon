@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.mouseWheelZoom": true
+	}, 
+	"extensions": {
+		"recommendations": [
+			"xdebug.php-debug",
+			"bmewburn.vscode-intelephense-client"
+		]
+	}
+}
